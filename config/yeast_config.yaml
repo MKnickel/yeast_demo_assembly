@@ -1,0 +1,4 @@
+conditions: ["ref", "etoh60", "temp33"]
+reads_dir: "reads"
+replicates: ["1", "2", "3"]
+kmer_values: ["19", "21", "25", "27"]
